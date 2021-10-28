@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vukas86" alt="vukas86" /></a> </p>
 
-- 🔭 I’m currently working on [Digital Clock](https://digital-clock-five.vercel.app/)
+- 🔭 I’m currently working on [My Portfolio](https://vercel.com/vukas86/my-portfolio)
 
 - 🌱 I’m currently learning **the-complete-javascript-course**
 
