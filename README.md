@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vukas86" alt="vukas86" /></a> </p>
 
-- 🌱 I’m currently learning **the-complete-javascript-course** on Udemy
+- 🌱 I’m currently learning **The Complete JavaScript Course 2022: From Zero to Expert!** on Udemy
 
 - 👨‍💻 Some of my projects are available at [https://vercel.com/vukas86](https://vercel.com/vukas86)
 
