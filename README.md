@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aleksandar Vukasovic</h1>
-<h3 align="center">A passionate frontend developer from Serbia</h3>
+<h3 align="center">A passionate Front-End developer from Serbia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vukas86&label=Profile%20views&color=0e75b6&style=flat" alt="vukas86" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vukas86" alt="vukas86" /></a> </p>
 
-- 🔭 I’m currently working on [My Portfolio](https://vercel.com/vukas86/my-portfolio)
-
 - 🌱 I’m currently learning **the-complete-javascript-course** on Udemy
 
-- 👨‍💻 All of my projects are available at [aleksandarvukasovic.com](aleksandarvukasovic.com)
+- 👨‍💻 Some of my projects are available at [https://vercel.com/vukas86](https://vercel.com/vukas86)
 
 - 📫 How to reach me **aleksandar.vukasovic@yahoo.com**
 
