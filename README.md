@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [My Portfolio](https://vercel.com/vukas86/my-portfolio)
 
-- 🌱 I’m currently learning **the-complete-javascript-course**
+- 🌱 I’m currently learning **the-complete-javascript-course** on Udemy
 
 - 👨‍💻 All of my projects are available at [aleksandarvukasovic.com](aleksandarvukasovic.com)
 
-- 📫 How to reach me **aleksandar.vukas@yahoo.com**
+- 📫 How to reach me **aleksandar.vukasovic@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
