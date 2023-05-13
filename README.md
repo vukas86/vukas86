@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vukas86" alt="vukas86" /></a> </p>
 
-- 🌱 I’m currently learning **
-React - The Complete Guide (incl Hooks, React Router, Redux)
-** on Udemy
-
 - 👨‍💻 Some of my projects are available at [https://vercel.com/vukas86](https://vercel.com/vukas86)
 
 - 📫 How to reach me **aleksandar.vukasovic@yahoo.com**
