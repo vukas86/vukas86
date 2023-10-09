@@ -5,6 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vukas86" alt="vukas86" /></a> </p>
 
+###
+
+<p align="left">📚 I'm currently learning "The Git & Github Bootcamp" on "Udemy" platform<br><br>
+
+###
+
 - 📫 How to reach me **aleksandar.vukasovic@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
