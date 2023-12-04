@@ -11,10 +11,6 @@
 
 ###
 
-- <p align="left">📚 I'm currently learning "The Git & Github Bootcamp" on "Udemy" platform<br><br>
-
-###
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aleksandar-vukasovic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleksandar-vukasovic" height="30" width="40" /></a>
